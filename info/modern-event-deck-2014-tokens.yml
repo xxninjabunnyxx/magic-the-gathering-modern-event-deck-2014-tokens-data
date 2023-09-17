@@ -1,0 +1,16 @@
+---
+object: set
+id: a6402e47-32d9-444d-bf16-8fc5af745241
+code: tmd1
+name: Modern Event Deck 2014 Tokens
+uri: https://api.scryfall.com/sets/a6402e47-32d9-444d-bf16-8fc5af745241
+scryfall_uri: https://scryfall.com/sets/tmd1
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atmd1&unique=prints
+released_at: '2014-05-30'
+set_type: token
+card_count: 4
+parent_set_code: md1
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/md1.svg?1694404800
